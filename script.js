@@ -7,7 +7,7 @@ addBtn.addEventListener("click", () => {
     const detailValue = detailField.value
 
     if (inputValue === "" || detailValue === "") {
-        alert("Please fill in both toic and details!")
+        alert("Please fill in both topic and details!")
     }
 
     else {
